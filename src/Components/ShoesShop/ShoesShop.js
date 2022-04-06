@@ -131,7 +131,7 @@ export default class ShoesShop extends Component {
                 "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             shortDescription: "Paul George is the rare high-percentage shooter",
             quantity: 875,
-            image: "https://www.nicekicks.com/files/2017/09/921826-401-3.jpg",
+            image: "https://product.hstatic.net/1000375638/product/806032_01_89d6d278c4984b6aaad829e8feb08ff8_master.jpg",
         },
         {
             id: 12,
