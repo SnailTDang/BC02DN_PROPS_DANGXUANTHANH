@@ -14,7 +14,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 995,
-            image: "http://svcy3.myclass.vn/images/adidas-prophere.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/02/MG_4335.jpg",
         },
         {
             id: 2,
@@ -26,7 +26,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 990,
-            image: "http://svcy3.myclass.vn/images/adidas-prophere-black-white.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/02/MG_4989.jpg",
         },
         {
             id: 3,
@@ -38,19 +38,19 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 415,
-            image: "http://svcy3.myclass.vn/images/adidas-prophere-customize.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/02/MG_4341.jpg",
         },
         {
             id: 4,
-            name: "Adidas Super Star Red",
-            alias: "adidas-super-star-red",
+            name: "Adidas Super Star ",
+            alias: "adidas-super-star-white",
             price: 465,
             description:
                 "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 542,
-            image: "http://svcy3.myclass.vn/images/adidas-super-star-red.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2021/12/z2265026843498_cca13cd65db8b63ec98082fc2f77fe27-scaled.jpg",
         },
         {
             id: 5,
@@ -62,7 +62,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 674,
-            image: "http://svcy3.myclass.vn/images/adidas-swift-run.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/02/MG_4978.jpg",
         },
         {
             id: 6,
@@ -74,7 +74,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 456,
-            image: "http://svcy3.myclass.vn/images/adidas-tenisky-super-star.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/10/MG_8178-300x300.jpg",
         },
         {
             id: 7,
@@ -86,7 +86,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 854,
-            image: "http://svcy3.myclass.vn/images/adidas-ultraboost-4.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/01/MG_3400-300x300.jpg",
         },
         {
             id: 8,
@@ -98,7 +98,7 @@ export default class ShoesShop extends Component {
             shortDescription:
                 "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             quantity: 524,
-            image: "http://svcy3.myclass.vn/images/adidas-yeezy-350.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2018/12/MG_0344-600x600.jpg",
         },
         {
             id: 9,
@@ -109,7 +109,7 @@ export default class ShoesShop extends Component {
                 "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             shortDescription: "Paul George is the rare high-percentage shooter",
             quantity: 599,
-            image: "http://svcy3.myclass.vn/images/nike-adapt-bb.png",
+            image: "https://cf.shopee.vn/file/3fc583bd6b44c8b6732a637a378b62de",
         },
         {
             id: 10,
@@ -120,7 +120,7 @@ export default class ShoesShop extends Component {
                 "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             shortDescription: "Paul George is the rare high-percentage shooter",
             quantity: 984,
-            image: "http://svcy3.myclass.vn/images/nike-air-max-97.png",
+            image: "https://giayxshop.vn/wp-content/uploads/2019/03/MG_5864-600x600.jpg",
         },
         {
             id: 11,
@@ -131,7 +131,7 @@ export default class ShoesShop extends Component {
                 "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             shortDescription: "Paul George is the rare high-percentage shooter",
             quantity: 875,
-            image: "http://svcy3.myclass.vn/images/nike-air-max-97-blue.png",
+            image: "https://www.nicekicks.com/files/2017/09/921826-401-3.jpg",
         },
         {
             id: 12,
@@ -142,7 +142,7 @@ export default class ShoesShop extends Component {
                 "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             shortDescription: "Paul George is the rare high-percentage shooter",
             quantity: 445,
-            image: "http://svcy3.myclass.vn/images/nike-air-max-270-react.png",
+            image: "https://cdn.vortexs.io/api/images/bd96a5ca-7efe-4aa5-982d-1274dd6da877/1920/w/sale-t3-giay-nike-air-max-270-react-vast-grey-ci3866-100-ap-dung-chuyen-khoan.jpeg",
         },
     ];
     state = {
